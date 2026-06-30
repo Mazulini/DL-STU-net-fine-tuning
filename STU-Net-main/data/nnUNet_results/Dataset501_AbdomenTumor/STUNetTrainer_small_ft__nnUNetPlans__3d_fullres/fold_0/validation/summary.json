@@ -1,0 +1,106 @@
+{
+    "foreground_mean": {
+        "Dice": 0.7981303647727345,
+        "FN": 25832.6,
+        "FP": 8304.2,
+        "IoU": 0.6690212006373901,
+        "TN": 48978813.6,
+        "TP": 60406.4,
+        "n_pred": 68710.6,
+        "n_ref": 86239.0
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.7981303647727345,
+            "FN": 25832.6,
+            "FP": 8304.2,
+            "IoU": 0.6690212006373901,
+            "TN": 48978813.6,
+            "TP": 60406.4,
+            "n_pred": 68710.6,
+            "n_ref": 86239.0
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8150994414202868,
+                    "FN": 3869,
+                    "FP": 1328,
+                    "IoU": 0.6879053567139083,
+                    "TN": 52150004,
+                    "TP": 11455,
+                    "n_pred": 12783,
+                    "n_ref": 15324
+                }
+            },
+            "prediction_file": "C:\\Users\\matij\\Desktop\\STU-Net-main\\STU-Net-main\\data\\nnUNet_results\\Dataset501_AbdomenTumor\\STUNetTrainer_small_ft__nnUNetPlans__3d_fullres\\fold_0\\validation\\007_1.3.12.2.1107.5.1.4.83504.30000021052612201586400049605.nii.gz",
+            "reference_file": "C:\\Users\\matij\\Desktop\\STU-Net-main\\STU-Net-main\\data\\nnUNet_preprocessed\\Dataset501_AbdomenTumor\\gt_segmentations\\007_1.3.12.2.1107.5.1.4.83504.30000021052612201586400049605.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8220718633175765,
+                    "FN": 4195,
+                    "FP": 1564,
+                    "IoU": 0.6978964486177411,
+                    "TN": 45331849,
+                    "TP": 13304,
+                    "n_pred": 14868,
+                    "n_ref": 17499
+                }
+            },
+            "prediction_file": "C:\\Users\\matij\\Desktop\\STU-Net-main\\STU-Net-main\\data\\nnUNet_results\\Dataset501_AbdomenTumor\\STUNetTrainer_small_ft__nnUNetPlans__3d_fullres\\fold_0\\validation\\008_1.3.12.2.1107.5.1.4.83504.30000023011707404892200015805.nii.gz",
+            "reference_file": "C:\\Users\\matij\\Desktop\\STU-Net-main\\STU-Net-main\\data\\nnUNet_preprocessed\\Dataset501_AbdomenTumor\\gt_segmentations\\008_1.3.12.2.1107.5.1.4.83504.30000023011707404892200015805.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8353685618090212,
+                    "FN": 24791,
+                    "FP": 9682,
+                    "IoU": 0.7172814801449965,
+                    "TN": 51258290,
+                    "TP": 87461,
+                    "n_pred": 97143,
+                    "n_ref": 112252
+                }
+            },
+            "prediction_file": "C:\\Users\\matij\\Desktop\\STU-Net-main\\STU-Net-main\\data\\nnUNet_results\\Dataset501_AbdomenTumor\\STUNetTrainer_small_ft__nnUNetPlans__3d_fullres\\fold_0\\validation\\022_1.3.12.2.1107.5.1.4.83504.30000020102916421550900016665.nii.gz",
+            "reference_file": "C:\\Users\\matij\\Desktop\\STU-Net-main\\STU-Net-main\\data\\nnUNet_preprocessed\\Dataset501_AbdomenTumor\\gt_segmentations\\022_1.3.12.2.1107.5.1.4.83504.30000020102916421550900016665.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6648845883362237,
+                    "FN": 82230,
+                    "FP": 8785,
+                    "IoU": 0.4979978378855403,
+                    "TN": 47791048,
+                    "TP": 90289,
+                    "n_pred": 99074,
+                    "n_ref": 172519
+                }
+            },
+            "prediction_file": "C:\\Users\\matij\\Desktop\\STU-Net-main\\STU-Net-main\\data\\nnUNet_results\\Dataset501_AbdomenTumor\\STUNetTrainer_small_ft__nnUNetPlans__3d_fullres\\fold_0\\validation\\024_1.3.12.2.1107.5.1.4.83504.30000020121611411612500007509.nii.gz",
+            "reference_file": "C:\\Users\\matij\\Desktop\\STU-Net-main\\STU-Net-main\\data\\nnUNet_preprocessed\\Dataset501_AbdomenTumor\\gt_segmentations\\024_1.3.12.2.1107.5.1.4.83504.30000020121611411612500007509.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8532273689805646,
+                    "FN": 14078,
+                    "FP": 20162,
+                    "IoU": 0.7440248798247647,
+                    "TN": 48362877,
+                    "TP": 99523,
+                    "n_pred": 119685,
+                    "n_ref": 113601
+                }
+            },
+            "prediction_file": "C:\\Users\\matij\\Desktop\\STU-Net-main\\STU-Net-main\\data\\nnUNet_results\\Dataset501_AbdomenTumor\\STUNetTrainer_small_ft__nnUNetPlans__3d_fullres\\fold_0\\validation\\025_1.3.12.2.1107.5.1.4.83504.30000023031713195745100038136.nii.gz",
+            "reference_file": "C:\\Users\\matij\\Desktop\\STU-Net-main\\STU-Net-main\\data\\nnUNet_preprocessed\\Dataset501_AbdomenTumor\\gt_segmentations\\025_1.3.12.2.1107.5.1.4.83504.30000023031713195745100038136.nii.gz"
+        }
+    ]
+}

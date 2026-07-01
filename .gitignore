@@ -1,0 +1,6 @@
+STU-Net-main/data/final-formatted/
+STU-Net-main/data/nnUNet_raw/
+STU-Net-main/data/nnUNet_results/
+*.nii.gz
+.venv/
+*.model

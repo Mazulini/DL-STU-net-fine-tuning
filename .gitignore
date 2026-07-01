@@ -4,3 +4,4 @@ STU-Net-main/data/nnUNet_results/
 *.nii.gz
 .venv/
 *.model
+*.pyc

@@ -1,0 +1,250 @@
+{
+    "foreground_mean": {
+        "Dice": 0.33056020354375226,
+        "FN": 169745.7142857143,
+        "FP": 3325.5714285714284,
+        "IoU": 0.23848758906637105,
+        "TN": 48314773.21428572,
+        "TP": 46244.642857142855,
+        "n_pred": 49570.21428571428,
+        "n_ref": 215990.35714285713
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.33056020354375226,
+            "FN": 169745.7142857143,
+            "FP": 3325.5714285714284,
+            "IoU": 0.23848758906637105,
+            "TN": 48314773.21428572,
+            "TP": 46244.642857142855,
+            "n_pred": 49570.21428571428,
+            "n_ref": 215990.35714285713
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5194614836306686,
+                    "FN": 94590,
+                    "FP": 1140,
+                    "IoU": 0.3508598242378214,
+                    "TN": 45203440,
+                    "TP": 51742,
+                    "n_pred": 52882,
+                    "n_ref": 146332
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/003_1.3.12.2.1107.5.1.4.83504.30000021061509140333600009084.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/003_1.3.12.2.1107.5.1.4.83504.30000021061509140333600009084.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6662277510193239,
+                    "FN": 46719,
+                    "FP": 11075,
+                    "IoU": 0.4995063823891092,
+                    "TN": 45759726,
+                    "TP": 57680,
+                    "n_pred": 68755,
+                    "n_ref": 104399
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/003_1.3.12.2.1107.5.1.4.83504.30000021082509324422300004131.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/003_1.3.12.2.1107.5.1.4.83504.30000021082509324422300004131.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.674365846654542,
+                    "FN": 57784,
+                    "FP": 10254,
+                    "IoU": 0.5087118832542656,
+                    "TN": 46260999,
+                    "TP": 70451,
+                    "n_pred": 80705,
+                    "n_ref": 128235
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/003_1.3.12.2.1107.5.1.4.83504.30000021102712332815800004663.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/003_1.3.12.2.1107.5.1.4.83504.30000021102712332815800004663.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.764832454324778,
+                    "FN": 121087,
+                    "FP": 5146,
+                    "IoU": 0.6192135285635856,
+                    "TN": 52883726,
+                    "TP": 205273,
+                    "n_pred": 210419,
+                    "n_ref": 326360
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/013_1.3.12.2.1107.5.1.4.83504.30000021061014315422700023041.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/013_1.3.12.2.1107.5.1.4.83504.30000021061014315422700023041.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5583361763321428,
+                    "FN": 99789,
+                    "FP": 2484,
+                    "IoU": 0.38728597275308835,
+                    "TN": 49378298,
+                    "TP": 64645,
+                    "n_pred": 67129,
+                    "n_ref": 164434
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/013_1.3.12.2.1107.5.1.4.83504.30000021081905213109000029485.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/013_1.3.12.2.1107.5.1.4.83504.30000021081905213109000029485.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.649487266810459,
+                    "FN": 49703,
+                    "FP": 5875,
+                    "IoU": 0.48091902493695715,
+                    "TN": 48127426,
+                    "TP": 51492,
+                    "n_pred": 57367,
+                    "n_ref": 101195
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/013_1.3.12.2.1107.5.1.4.83504.30000021102112360685900001538.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/013_1.3.12.2.1107.5.1.4.83504.30000021102112360685900001538.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.020550877693734836,
+                    "FN": 6863,
+                    "FP": 0,
+                    "IoU": 0.010382119682768566,
+                    "TN": 49538281,
+                    "TP": 72,
+                    "n_pred": 72,
+                    "n_ref": 6935
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/015_1.3.12.2.1107.5.1.4.83504.30000020011313523232500004258.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/015_1.3.12.2.1107.5.1.4.83504.30000020011313523232500004258.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 6778,
+                    "FP": 2,
+                    "IoU": 0.0,
+                    "TN": 51373444,
+                    "TP": 0,
+                    "n_pred": 2,
+                    "n_ref": 6778
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/015_1.3.12.2.1107.5.1.4.83504.30000020021012090131800013364.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/015_1.3.12.2.1107.5.1.4.83504.30000020021012090131800013364.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 4852,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 49802508,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 4852
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/015_1.3.12.2.1107.5.1.4.83504.30000020040114181387500000788.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/015_1.3.12.2.1107.5.1.4.83504.30000020040114181387500000788.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.4896069400784658,
+                    "FN": 39093,
+                    "FP": 2797,
+                    "IoU": 0.32415862669807366,
+                    "TN": 54726114,
+                    "TP": 20092,
+                    "n_pred": 22889,
+                    "n_ref": 59185
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/018_1.3.12.2.1107.5.1.4.83504.30000021051211124165500072243.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/018_1.3.12.2.1107.5.1.4.83504.30000021051211124165500072243.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.22609777493467795,
+                    "FN": 655280,
+                    "FP": 2848,
+                    "IoU": 0.12745785632370585,
+                    "TN": 45120935,
+                    "TP": 96137,
+                    "n_pred": 98985,
+                    "n_ref": 751417
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/028_1.3.12.2.1107.5.1.4.83504.30000021051412400662100001857.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/028_1.3.12.2.1107.5.1.4.83504.30000021051412400662100001857.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.05887627813373977,
+                    "FN": 952671,
+                    "FP": 1332,
+                    "IoU": 0.030331028089819117,
+                    "TN": 48299228,
+                    "TP": 29841,
+                    "n_pred": 31173,
+                    "n_ref": 982512
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/028_1.3.12.2.1107.5.1.4.83504.30000021071911510369800020299.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/028_1.3.12.2.1107.5.1.4.83504.30000021071911510369800020299.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 92908,
+                    "FP": 3536,
+                    "IoU": 0.0,
+                    "TN": 45254468,
+                    "TP": 0,
+                    "n_pred": 3536,
+                    "n_ref": 92908
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/035_1.3.12.2.1107.5.1.4.83504.30000021070712131706800023856.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/035_1.3.12.2.1107.5.1.4.83504.30000021070712131706800023856.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 148323,
+                    "FP": 69,
+                    "IoU": 0.0,
+                    "TN": 44678232,
+                    "TP": 0,
+                    "n_pred": 69,
+                    "n_ref": 148323
+                }
+            },
+            "prediction_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/result/035_1.3.12.2.1107.5.1.4.83504.30000021091312134713400002616.nii.gz",
+            "reference_file": "/home/chloe/Desktop/DL-STU-net-fine-tuning/STU-Net-main/data/nnUNet_raw/Dataset501_AbdomenTumor/labelsTs/035_1.3.12.2.1107.5.1.4.83504.30000021091312134713400002616.nii.gz"
+        }
+    ]
+}
